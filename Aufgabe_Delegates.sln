@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates_Beispiel", "Deleg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateEinfuehrung", "DelegateEinfuehrung\DelegateEinfuehrung.csproj", "{C45E854F-3D45-4EE7-8F8D-09A4134941C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarpKern_Aufgabe", "WarpKern\WarpKern_Aufgabe.csproj", "{7C90EE59-2E02-4575-A6C6-9DD48576D24B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C45E854F-3D45-4EE7-8F8D-09A4134941C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C45E854F-3D45-4EE7-8F8D-09A4134941C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C45E854F-3D45-4EE7-8F8D-09A4134941C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C90EE59-2E02-4575-A6C6-9DD48576D24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C90EE59-2E02-4575-A6C6-9DD48576D24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C90EE59-2E02-4575-A6C6-9DD48576D24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C90EE59-2E02-4575-A6C6-9DD48576D24B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
